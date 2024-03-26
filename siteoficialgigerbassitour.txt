@@ -1,0 +1,136 @@
+Site Oficial
+
+GI GERBASSI
+
+dominio:gigerbassitour.com.br
+
+gigerbassitour.com.br
+Domínio disponível para registro.
+R$ 40,00
+por 1 ano
+
+R$ 40,00 por 1 ano
+R$ 80,00
+R$ 76,00
+por 2 anos
+
+De R$ 80,00 por R$ 76,00 por 2 anos
+R$ 200,00
+R$ 184,00
+por 5 anos
+
+De R$ 200,00 por R$ 184,00 por 5 anos
+
+
+
+Paleta 02
+#0800F0
+#3A378A
+#2B26BD
+#353457
+#292933
+
+Paleta 03
+#297D33
+#A6E3AD
+#274A2B
+#DEFFE2
+#ABFFB5
+
+
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+</style>
+font-family: 'Ubuntu', sans-serif;
+
+[menu]
+[home]
+[sobre]
+[viagens]
+[galeria]
+[contato]
+
+[Gi Gerbassi Tour]
+
+[Vem com o bonde da Gi]
+
+[foto da gi]
+
+[proxima viagem]
+
+[redes sociais]
+
+[rodape]
+
+[criado por]
+
+
+[Sobre]
+
+
+[historia da Gi texto elaborado por ela]
+
+[foto da gi]
+
+[proxima viagem]
+
+[redes sociais]
+
+[rodape]
+
+[criado por]
+
+
+[Viagens]
+
+Vem se divertir com o bonde da Gi
+
+[foto viagem atual] > [texto sobre e link de reserva]
+
+[foto viagem atual] > [texto sobre e link de reserva]
+
+[foto viagem atual] > [texto sobre e link de reserva]
+
+[foto viagem atual] > [texto sobre e link de reserva]
+
+[foto viagem atual] > [texto sobre e link de reserva]
+
+[redes sociais]
+
+[rodape]
+
+[criado por]
+
+
+[Galeria]
+
+[foto 1] passageiros [foto 2] passageiros
+
+[foto 3] passageiros [foto 4] passageiros
+
+[foto 5] passageiros [foto 6] passageiros
+
+[Video 1] passageiros [video 2] passageiros
+
+[redes sociais]
+
+[rodape]
+
+[criado por]
+
+
+[Contato]
+
+[email] link
+
+[telefone] link
+
+[whatsapp] link
+
+
+[redes sociais]
+
+[rodape]
+
+[criado por]
